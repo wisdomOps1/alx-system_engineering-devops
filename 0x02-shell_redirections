@@ -1,0 +1,2 @@
+julien@ubuntu:/tmp/h$ echo hello_world.txt > 0-hello_world
+hello world
